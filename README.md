@@ -1,0 +1,3 @@
+El problema de MountainCar es un ejemplo canónico que pone a prueba la capacidad de los algoritmos de RL para resolver tareas de control continuo y secuencial. El objetivo es que el coche aprenda a moverse de manera eficiente utilizando los refuerzos positivos y negativos para alcanzar la meta en el menor tiempo posible.
+
+Este notebook detalla la implementación de soluciones basadas en aprendizaje por refuerzo, mostrando cómo entrenar y evaluar un agente en este entorno. Se exploran conceptos clave como la interacción entre agente y entorno, y se aplican técnicas avanzadas para mejorar el rendimiento del agente.
